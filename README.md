@@ -13,8 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Shanvi1228&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanvi1228&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Shanvi1228&icon=0&color=13)](https://visitcount.itsvg.in)
 
