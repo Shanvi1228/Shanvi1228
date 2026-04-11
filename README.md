@@ -1,5 +1,14 @@
 # 💫 About Me:
-### Hey, I'm Shanvi 👋<br><br>I'm an undergraduate Computer Science student with a strong passion for programming and problem-solving. My skills include C++, Python, Java, and Dart, and I love bringing ideas to life through code.<br><br>I'm currently focused on building responsive and intuitive user interfaces using the Flutter framework. My goal is to create applications that are not just powerful, but also a joy to use.<br><br>When I'm not coding, you can find me learning about new technologies and contributing to open-source projects.<br><br>Let's connect and build something amazing together!
+### 
+Hey, I’m Shanvi 🐥
+I build user-focused applications while exploring how they work behind the scenes.
+
+Frontend: Flutter (clean, intuitive UI)
+Backend: Java & Spring Boot (system design, APIs)
+Core: C++ | Data Structures & Algorithms
+
+I’m interested in understanding the full picture from how a product looks to how it actually functions.
+Currently focused on improving problem-solving, writing efficient code, and building better systems.
 
 
 ## 🌐 Socials:
